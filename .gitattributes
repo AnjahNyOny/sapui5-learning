@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.md linguist-language=Markdown
+*.xml text
+*.json text
+*.js  text
+EOF
