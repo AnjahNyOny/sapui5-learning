@@ -12,12 +12,13 @@ Ce dépôt contient :
 # walkthrough-notes
 
 # Step X : Title
-_ Date : 15 September 13:15
+_ Date : 15 September 
 _ Goal : 
 _ What I did : 
             _ 
 
 _ What I learned : 
+            _
 
 
 # --------------------------------------------------------------------------------------------------------------------------------------- #
