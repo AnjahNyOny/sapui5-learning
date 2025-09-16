@@ -35,7 +35,7 @@ git push -u origin learn/step-02
 
 # Synchroniser localement, tagger, nettoyer
 git checkout main
-git pull
+git pull origin main
 git tag -a v0.02-step-02 -m "Walkthrough step 02 complete"
 git push --tags
 git branch -d learn/step-02
