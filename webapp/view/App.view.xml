@@ -2,9 +2,15 @@
     controllerName="ui5.walkthrough.controller.App"
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc">
-    <Text text="Salama Baba"/>
     <Button
-    text="Tsy azo tsindrina ito"
-    press=".onShowText"
+        text="Tsy azo tsindrina ito"
+        press=".onShowText"
     />
+    <Input
+        value="{/recipient/name}"
+        description="Salama {/recipient/name}, Manahoana ianao?"
+        valueLiveUpdate="true"
+        width="70%"
+    />
+
 </mvc:View>
